@@ -7,6 +7,7 @@ Please submit a pull request for any information you believe is missing from any
 ## Contents:
 
 Week 1: Shop safety, Bench Tools, Electronics and Circuits, Arduino
+[Intro to Arduino Repo]{https://github.com/MakerspaceCT/arduino_intro}
 
 Week 2: Soldering, Prototyping, Data basics, Raspberry Pi and Linux
 
